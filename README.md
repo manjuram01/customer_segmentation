@@ -63,5 +63,5 @@ By applying clustering techniques, the project identifies distinct customer grou
 
 **Manju Ram Bojja**
 
-* 📧 [manjurambojja@gmail.com](Gmail)
-* 🌐 [https://www.linkedin.com/in/manju-ram-b-031976239/](LinkdeIn)
+* 📧 [manjurambojja@gmail.com] (Gmail)
+* 🌐 [https://www.linkedin.com/in/manju-ram-b-031976239/] (LinkdeIn)
